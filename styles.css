@@ -4,11 +4,11 @@ body {
     background-size: cover;
     text-align: center;
     font-family: 'Orbitron', sans-serif;
-    font-size: 70px;
+    font-size: 100px;
 }
 
 #main-logo {
-    width: 500px;
+    width: 50px;
 }
 
 .btn {
@@ -17,7 +17,7 @@ body {
     border: none;
     border-radius: 10px;
     font-family: 'Orbitron', sans-serif;
-    font-size: 50px;
+    font-size: 70px;
 }
 
 .underline {
